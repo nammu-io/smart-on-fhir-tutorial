@@ -6,6 +6,8 @@ https://engineering.cerner.com/smart-on-fhir-tutorial/
 
 https://www.fluvio.io/docs/
 
+http://build.fhir.org/
+
 Data Stream:
 Patient inputs - carbs intakes (units - grams), activities (text), emotions (text).
 
